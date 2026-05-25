@@ -6,7 +6,7 @@ The AI Classifier App is a graphical interface application designed to identify 
 
 ###### image of program:
 <p align="center">
-  <img src="images/image1.png"  width="100%">
+  <img src="images/img1.png"  width="100%">
 </p>
 
 ## Features
